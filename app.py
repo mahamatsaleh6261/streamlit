@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score
 
 # Titre de l'application
-st.title('Ma première application Streamlit')
+st.title('MAHAMAT SALEH Djimet Adam')
 
 # Sélecteur de texte
 option = st.selectbox('Choisissez une option', ['Option 1', 'Option 2', 'Option 3'])
